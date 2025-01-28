@@ -14,3 +14,7 @@ The dataset for this competition (both train and test) was generated from a deep
 *train.csv* - the training dataset; Premium Amount is the continuous target<br>
 *test.csv* - the test dataset; your objective is to predict target Premium Amount for each row<br>
 *sample_submission.csv* - a sample submission file in the correct format<br>
+
+## Result
+Ranked 987 on my first Kaggle competition, good learning curve, onto next one!
+<img width="1092" alt="Screenshot 2025-01-28 at 4 47 15 PM" src="https://github.com/user-attachments/assets/d4cd9fa4-7fca-427f-9781-5df6b50a205f" />
